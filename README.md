@@ -1,2 +1,0 @@
-# VJPVDM
-Created with CodeSandbox

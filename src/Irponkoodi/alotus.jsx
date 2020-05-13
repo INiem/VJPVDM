@@ -1,5 +1,5 @@
 import React from "react";
-import kuva from "/Alotus.jpg";
+import kuva from "/src/KuvaK/Alotus.jpg";
 // Sivun aloituskuva
 const Aloituskuva = (
   <div id="alku">
